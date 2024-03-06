@@ -1,0 +1,10 @@
+Setting up Your Bike Store Database
+1.	Create the database: In SQL Server Management Studio (SSMS), create a new database named "BikeStores".
+2.	Import the data: Find the "Data" folder provided. Open each SQL file in order (create files should be run before load files). Execute the code in each file to create and fill the database tables.
+3.	Create a combined view: Write a new SQL query using JOIN commands to pull the columns you want to visualize into a single view. Save this query.
+
+Connecting to Power BI and Building Your Dashboard
+1.	Import from SQL Server: Open Power BI and choose "Import data from SQL Server".
+2.	Enter server and database: Provide your SQL Server name (found in SSMS) and the database name "BikeStores".
+3.	Use your saved query: Click "Advanced options" and paste your combined view SQL query into the "SQL statement" box. Click "OK".
+4.	Visualize and Build! The data will load. Now, you can use Power BI's tools to create charts, graphs, and other visualizations that form your insightful dashboard.
