@@ -1,5 +1,6 @@
 # End-to-End Data Analysis Project
 
+![image](https://github.com/sathwikvarikoti/Data-Analysis-Project/assets/157521659/b43c6741-3172-4cc5-b719-c5d9561711eb)
 
 Project Summary:
 
